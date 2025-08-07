@@ -17,7 +17,6 @@ NoFrOST = "Not Frogger's OnStream Tape"
 - Python
 
 ## Common usage
-- File:
 ```sh
 python nofrost.py tape.pak tapeIOS
 python nofrost.py tapeA.pak tapeAndroid
@@ -27,4 +26,3 @@ This also output decrypted .pak, just don't change it to any extension.
 
 ## Note
 Devsisters may change it anytime, so beware.
-
